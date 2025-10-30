@@ -1,4 +1,0 @@
-index.html
-logo.jpg
-hoodie.jpg
-jacket.jpg
